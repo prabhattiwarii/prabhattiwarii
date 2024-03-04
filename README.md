@@ -2,15 +2,15 @@
 <h3 align="center">I'm passionate frontend developer from India</h3>
 
 <div align="center">
-- 🔭 I’m currently working on **School Management**
+🔭 I’m currently working on **School Management**
+    
+🌱 I’m currently learning **Next.JS and SQL**
 
-- 🌱 I’m currently learning **Next.JS and SQL**
+👨‍💻 All of my projects are available at [https://prabhat-portfolio.vercel.app/](https://prabhat-portfolio.vercel.app
 
-- 👨‍💻 All of my projects are available at [https://prabhat-portfolio.vercel.app/](https://prabhat-portfolio.vercel.app/)
+💬 Ask me about **React.js and Next.js**
 
-- 💬 Ask me about **React.js and Next.js**
-
-- 📫 How to reach me **prabhattiwari9629@gmail.com**
+📫 How to reach me **prabhattiwari9629@gmail.com**
 </div>
 
 <h3 align="center">Connect with me:</h3>
@@ -28,10 +28,3 @@
 <br/>
 <hr/>
 
-<div align="center">
-  <h2> My Contributions </h2>
-  <br>
-    <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
-  
-  <br/><br/><br/>
-</div>
