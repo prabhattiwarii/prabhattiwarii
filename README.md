@@ -6,7 +6,7 @@
     
 🌱 I’m currently learning **Next.JS and SQL**
 
-👨‍💻 All of my projects are available at [https://prabhat-portfolio.vercel.app/](https://prabhat-portfolio.vercel.app
+ 👨‍💻 All of my projects are available at [https://prabhat-tiwari.vercel.app/](https://prabhat-tiwari.vercel.app/)
 
 💬 Ask me about **React.js and Next.js**
 
